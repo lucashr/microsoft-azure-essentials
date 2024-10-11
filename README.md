@@ -72,3 +72,18 @@ redundância</p>
   libera espaço (bidirecional). Funciona em Windows, Linux e MacOs</br>
   
 </p>
+
+### <p>Entendendo sobre Segurança e Identidade na Azure - Desafio</p>
+
+<p>Tópicos abordados: serviços de diretório, métodos de autenticação, modelos de segurança</p>
+
+<p>
+
+  Microsoft Entra ID: é o serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure.</br>
+	Autenticação: identifica a pessoa ou serviço buscando acesso a um recurso.</br>
+	Autorização: determina o nível de acesso de uma pessoa ou serviço autenticado (quais recursos podem ser acessados)</br>
+	Controle de acesso baseado em função (RBAC): gerenciamento de acesso granular (para cada recurso).</br>
+	Confiança zero: conceder menos privilégio o possível.</br>
+	Microsoft defender para nuvem: é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters.
+  
+</p>
