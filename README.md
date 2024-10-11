@@ -80,10 +80,25 @@ redundância</p>
 <p>
 
   Microsoft Entra ID: é o serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure.</br>
-	Autenticação: identifica a pessoa ou serviço buscando acesso a um recurso.</br>
-	Autorização: determina o nível de acesso de uma pessoa ou serviço autenticado (quais recursos podem ser acessados)</br>
-	Controle de acesso baseado em função (RBAC): gerenciamento de acesso granular (para cada recurso).</br>
-	Confiança zero: conceder menos privilégio o possível.</br>
-	Microsoft defender para nuvem: é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters.
+  Autenticação: identifica a pessoa ou serviço buscando acesso a um recurso.</br>
+  Autorização: determina o nível de acesso de uma pessoa ou serviço autenticado (quais recursos podem ser acessados)</br>
+  Controle de acesso baseado em função (RBAC): gerenciamento de acesso granular (para cada recurso).</br>
+  Confiança zero: conceder menos privilégio o possível.</br>
+  Microsoft defender para nuvem: é um serviço de monitoramento que fornece proteção contra ameaças nos datacenters.
   
+</p>
+
+### <p>Otimizando Custos no Azure - Desafio</p>
+
+<p>Tópicos abordados: calculadora de custos e preços e gereciamento de custos e marcas.</p>
+
+<p>
+  Fatores que afetam o custo: tipo de recurso, consumo, manutenção, área geográfica, tráfego de rede,
+  assinatura.</br>
+  Azure marketplace: permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos
+  e serviços de provedores de serviços.</br>
+  Calculadora de custo total de propriedade (TCO): uma ferramenta para estimar a esconomia de custos
+  possível ao migra para o Azure.</br>
+  Marcas: fornecem metadados aos recursos do azure (não são obrigatórias e nem herdaveis). 
+  Organizam recursos que consiste em um par nome-valor.	
 </p>
