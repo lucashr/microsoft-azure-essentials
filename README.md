@@ -102,3 +102,22 @@ redundância</p>
   Marcas: fornecem metadados aos recursos do azure (não são obrigatórias e nem herdaveis). 
   Organizam recursos que consiste em um par nome-valor.	
 </p>
+
+### <p>Gerenciando Politicas em Acessos Azure - Desafio</p>
+
+<p>Tópicos abordados: blueprints, políticas e bloqueios de recursos, portal de confiança do serviço.</p>
+
+<p>
+  
+  Azure policy: ajuda a impor padrões organizacionais e a avaliar a conformidade em escala.</br>
+  Bloqueios de recursos: proteja os recursos do Azure de exclusão ou modificação acidental.
+  Também gerencia bloqueios de assinatura, grupo de recursos ou níveis de recursos individuais
+  dentro do porta do Azure.Obs.: bloqueios são herdaveis. Caso um bloqueio seja feito a
+  nível de resource group tudo que esta dentro do resource group herdará esse bloqueio.</br>
+  Portal de confiança do serviço: mostra quais estratégias a Microsoft segue para proteção
+  de dados, validação de conteúdos de inteligência artificial, protocolos e leis que ela
+  consegue manter com relação a informações dos clientes entre outras informações.</br>
+  Microsoft purview: é uma família de soluções de governança, risco e conformidade de
+  dados que ajuda a obter em uma única exibição unificada.
+  
+</p>
