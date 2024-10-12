@@ -136,3 +136,17 @@ redundância</p>
   Bicep: usado para criar os recursos de maneira automatizada no Azure.
   
 </p>
+
+### <p>Monitoramento Inteligente com o Azure - Desafio</p>
+
+<p>Tópicos abordados: assistente do Azure, integridade do serviço do Azure e Azure monitor.</p>
+
+<p>
+  Assistente do Azure: analisa recursos implantandos do Azure e faz recomendações com base
+  nas práticas recomendadas para otimizar as implantações do Azure.</br> 
+  Integridade do serviço do Azure: mantêm você informado sobre o status geral do Azure,
+  status de serviços que podem afetar você e status de recurso específico que está afetando você.</br>
+  Azure monitor: maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando,
+  analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais.
+  
+</p>
