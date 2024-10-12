@@ -121,3 +121,18 @@ redundância</p>
   dados que ajuda a obter em uma única exibição unificada.
   
 </p>
+
+### <p>Ferramentas de Implantação na Azure - Desafio</p>
+
+<p>Tópicos abordados: portal, powershell, CLI, Azure arc, Azure resource manager.</p>
+
+<p>
+  Azure arc: Ele simplifica a governança e o gerenciamento ao fornecer uma plataforma de gerenciamento 
+  local consistente e de várias nuvens.</br>
+  Azure resource manager: usado para criar, atualizar e excluir recursos na assinatura do Azure.</br>
+  Infraestrutura como código: garanta a consistência na implantação em todo o escossistema de nuvem.</br>
+  Modelos do ARM (Azure resource manager): os modelos são arquivos do tipo json. Usado para criar e 
+  implantar a infraestrutura do Azure sem a necessidade de comandos.
+  Bicep: usado para criar os recursos de maneira automatizada no Azure.
+  
+</p>
