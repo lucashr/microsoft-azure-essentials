@@ -109,7 +109,7 @@ redundância</p>
 
 <p>
   
-  Azure policy: ajuda a impor padrões organizacionais e a avaliar a conformidade em escala.</br>
+  Azure policy: ajuda a impor padrões organizacionais e a avaliar a conformidade em escala. Por exemplo: </br>
   Bloqueios de recursos: proteja os recursos do Azure de exclusão ou modificação acidental.
   Também gerencia bloqueios de assinatura, grupo de recursos ou níveis de recursos individuais
   dentro do porta do Azure.Obs.: bloqueios são herdaveis. Caso um bloqueio seja feito a
@@ -119,7 +119,7 @@ redundância</p>
   consegue manter com relação a informações dos clientes entre outras informações.</br>
   Microsoft purview: é uma família de soluções de governança, risco e conformidade de
   dados que ajuda a obter em uma única exibição unificada.
-  
+  Azure Trust Center: O Azure Trust Center é uma iniciativa da Microsoft que visa ajudar as organizações a proteger seus dados confidenciais na nuvem e a cumprir leis e        regulamentos aplicáveis. Ele oferece uma estrutura de segurança completa, com suporte de especialistas e conformidade proativa.
 </p>
 
 ### <p>Ferramentas de Implantação na Azure - Desafio</p>
@@ -149,4 +149,15 @@ redundância</p>
   Azure monitor: maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando,
   analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais.
   
+</p>
+
+### <p>Anotações</p>
+
+<p>
+  Network security groups (NSG):You can use an Azure network security group to filter network traffic between Azure resources in an Azure virtual network. A network security   group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources. For each rule, you can       specify source and destination, port, and protocol.</br>
+  Azure Information Protection (AIP): A Proteção de Informações do Azure (AIP) fornece o serviço de criptografia, o Azure Rights Management, que é usado pelo Microsoft         Purview Information Protection. Ex.: adicionar automaticamente uma marca d’água a documentos do Microsoft Word.</br>
+  Azure advisor: O Assistente é um assistente de nuvem digital que ajuda você a seguir as melhores práticas para otimizar suas implantações do Azure. Ele analisa a             configuração de seus recursos e a telemetria de uso e, em seguida, recomenda soluções que podem lhe ajudar a melhorar a relação custo-benefício, o desempenho, a              confiabilidade e a segurança de seus recursos do Azure.</br>
+  Azure Key Vault: É usado para armazenar certificados no Azure, você deve usar o Azure Key Vault12, que é um serviço que protege chaves de criptografia, certificados e        segredos na nuvem.</br>
+  Azure Service Health: O Azure Service Health fornece informações personalizadas sobre o status dos serviços do Azure e alertas sobre falhas ou interrupções que possam        impactar sua aplicação ou infraestrutura. Ele ajuda a monitorar o estado dos serviços e gera notificações em tempo real sobre problemas e manutenção planejada.</br>
+  Azure DevTest Labs: O Azure DevTest Labs é um serviço para criar, usar e gerenciar VMs (máquinas virtuais) de IaaS (infraestrutura como serviço) facilmente em                laboratórios. Os laboratórios oferecem bases e artefatos pré-configurados para a criação de VMs. Os cenários dos DevTest Labs comuns incluem VMs para laboratórios de         desenvolvimento, teste e sala de aula ou treinamento. Os DevTest Labs promovem a eficiência, a consistência e o controle de custos mantendo todo o uso de recursos dentro     do contexto do laboratório.
 </p>
